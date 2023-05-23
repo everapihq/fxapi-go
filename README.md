@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://app.currencyapi.com/img/logo/currencyapi.png" width="300"/>
+<img src="https://app.fxapi.com/img/logo/fxapi.png" width="300"/>
 </p>
 
 # fxapi-go: Golang Currency Converter
